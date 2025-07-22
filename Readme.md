@@ -32,7 +32,7 @@ Bu veri seti Türkçe yorumları ve bunlara ait duygu etiketlerini içeriyor.
    - Eğitim ve test verisini `train_test_split` ile ayırdım.
 
 5. **Model Değerlendirme**  
-   - Başarıyı ölçmek için **doğruluk (accuracy)**, **confusion matrix** ve diğer metrikleri kullandım.
+   - Başarıyı ölçmek için **doğruluk (accuracy)** ve diğer metrikleri kullandım.
 
 ## 🚀 Nasıl Çalıştırılır?
 
