@@ -33,15 +33,3 @@ Bu veri seti Türkçe yorumları ve bunlara ait duygu etiketlerini içeriyor.
 
 5. **Model Değerlendirme**  
    - Başarıyı ölçmek için **doğruluk (accuracy)** ve diğer metrikleri kullandım.
-
-## 🚀 Nasıl Çalıştırılır?
-
-1. Kaggle’daki veri setini indir:  
-   [https://www.kaggle.com/datasets/burhanbilenn/duygu-analizi-icin-urun-yorumlari](https://www.kaggle.com/datasets/burhanbilenn/duygu-analizi-icin-urun-yorumlari)
-
-2. `dataset.csv` dosyasını proje klasörüne koy.
-
-3. Gerekli kütüphaneleri yükle:
-
-```bash
-pip install -r requirements.txt
