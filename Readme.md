@@ -4,10 +4,8 @@ Bu projede, Türkçe mağaza yorumlarını kullanarak duygu analizi gerçekleşt
 
 ## 📁 Veri Seti
 
-Veri setini Kaggle üzerinde Burhan Bilen tarafından paylaşılan [Duygu Analizi İçin Ürün Yorumları](https://www.kaggle.com/datasets/burhanbilenn/duygu-analizi-icin-urun-yorumlari) başlıklı çalışmadan aldım.  
+Veri setini Kaggle üzerinde [Duygu Analizi İçin Ürün Yorumları](https://www.kaggle.com/datasets/burhanbilenn/duygu-analizi-icin-urun-yorumlari) başlıklı çalışmadan aldım.  
 Bu veri seti Türkçe yorumları ve bunlara ait duygu etiketlerini içeriyor.
-
-> **Not:** Telif haklarına saygı gereği veri setini bu depoya eklemedim. Yukarıdaki bağlantıdan indirerek kullanabilirsiniz.
 
 ## ⚙️ Kullandığım Teknolojiler
 
